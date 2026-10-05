@@ -1,4 +1,4 @@
-# Exercícios e Configurações — Cisco Packet Tracer
+# Exercícios e Configurações — Cisco Packet Tracer 🚀
 
 Repositório com exercícios práticos, topologias e configurações desenvolvidos no **Cisco Packet Tracer**, organizados para facilitar o estudo de redes de computadores.
 
@@ -30,9 +30,7 @@ Repositório com exercícios práticos, topologias e configurações desenvolvid
 └── imagens/
 
 
-
-<hr>
-
+-------------------------------------------------
 *Cada exercício pode incluir:*
 
 - Arquivo .pkt da topologia
@@ -41,7 +39,7 @@ Repositório com exercícios práticos, topologias e configurações desenvolvid
 - Capturas de tela ou diagramas
 - Testes realizados e resultados esperados
 
-<hr>
+_______________________________________________
 
 Como usar
 
